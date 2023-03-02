@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2Mobile</string>
+    <string name="bienvenu">Welcome</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signIn">Sign in</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="reset">Rest</string>
+</resources>
